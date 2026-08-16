@@ -26,4 +26,4 @@ Everything lives in your own iCloud account. No ads, no tracking, no data collec
 
 ---
 
-[Privacy Policy](privacy-policy.html) · © 2026 Woodey's Place
+[Privacy Policy](privacy-policy.md) · © 2026 Woodey's Place
