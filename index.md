@@ -5,11 +5,11 @@
 
 **Your private home cinema.**
 
-Book movie nights, track what you've watched, and keep a wishlist — all synced privately across your household via iCloud.
+Welcome to Woodey’s Place, built to bring the authentic box office experience right to your home theater.
 
 ## What it is
 
-Woodey's Place turns movie night into an occasion. Browse your library, book a showing, and get a proper ticket stub for the night — right down to who's coming and what you're watching it on.
+Woodey's Place lets your partner, family, or friends actually reserve their seats and book a night at your cinema, turning a simple movie night into a proper event.
 
 ## Features
 
