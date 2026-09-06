@@ -2,7 +2,11 @@
 # Woodeys Place V2 Testing
 Thanks for being part of my little project, I hope its of some use to you, it's already proving useful to me as its the one place I can keep everything together. Whether i haev films store on a NAS, blu-ray disc or bought from APPLE TV, i can add everything to a single library, so i know what i have.
 
-## More information
+## Testflight
+See the link below to the testflight beta, ensure you have testflight installed before downloading: 
+
+https://testflight.apple.com/join/bezjjUUy
+
 I will post the public testflight link here, if you think anyone else would benefit from using it, please share the link but if you can let me know by popping me an email.
 
 ### Contact me
